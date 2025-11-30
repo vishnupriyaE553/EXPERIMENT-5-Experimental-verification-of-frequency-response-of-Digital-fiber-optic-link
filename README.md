@@ -1,11 +1,8 @@
-
 Exp 5 Experimental verification of frequency response of Digital fiber optic link
 # Digital Fiber Optic Link Analysis (600nm)
 
 ## AIM
 To analyze the relationship between input and received signal of a 600nm fiber optic cable using digital link.
-
----
 
 ## EQUIPMENTS REQUIRED
 - Fiber optic trainer kit ST 2502  
@@ -14,16 +11,12 @@ To analyze the relationship between input and received signal of a 600nm fiber o
 - CRO (Cathode Ray Oscilloscope)  
 - 660 nm fiber cable  
 
----
-
 ## THEORY
 
 Fiber optic links can be used for transmission of digital as well as analog signals. A fiber optic link typically consists of three main elements:
 - **Transmitter**: Converts the electrical input signal into optical (light) energy.
 - **Optical Fiber**: Serves as the transmission medium for the light signal.
 - **Receiver**: Converts the received light back into an electrical signal, preserving the original signal pattern.
-
----
 
 ## PROCEDURE
 
@@ -41,21 +34,13 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 8. Vary the frequency between 10 Hz to 1 MHz and observe the output voltage for a constant input voltage of 5V.  
 9. Calculate the bandwidth by determining the gain in decibels (dB).  
 
----
-
 ## BLOCK DIAGRAM
 
 <img width="1060" height="640" alt="image" src="https://github.com/user-attachments/assets/22f1aae6-ed24-416c-9f13-51374037dac8" />
 
----
-
-
 ## CONNECTION DIAGRAM  
 **Setting up a Digital Link**
-
 *(Insert connection diagram here)*
-
----
 
 ## TABULATION  
 **Transmission through Digital Link**
@@ -72,19 +57,13 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 |    100KHZ      |        27V                   |    5.4       |  14.84     |
 |    250KHZ      |        12.7V                 |    2.54      |  8.09      |
 
-
----
-
 ## MODEL GRAPH
 
 <img width="902" height="446" alt="image" src="https://github.com/user-attachments/assets/5184fe3d-9ce1-4a78-a4b6-4f5c597c5def" />
 
----
-
 ## OUTPUT GRAPH
 
 ![WhatsApp Image 2025-11-26 at 10 18 41 PM](https://github.com/user-attachments/assets/5e4e2398-0ae0-47f4-ac32-dfc9a7987733)
-
 
 ## RESULT
 
